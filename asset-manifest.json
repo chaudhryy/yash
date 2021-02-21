@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/yash/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/yash/static/js/main.71ca98f1.chunk.js",
+    "main.js.map": "/yash/static/js/main.71ca98f1.chunk.js.map",
+    "runtime-main.js": "/yash/static/js/runtime-main.0d294950.js",
+    "runtime-main.js.map": "/yash/static/js/runtime-main.0d294950.js.map",
+    "static/js/2.58a384f1.chunk.js": "/yash/static/js/2.58a384f1.chunk.js",
+    "static/js/2.58a384f1.chunk.js.map": "/yash/static/js/2.58a384f1.chunk.js.map",
+    "static/js/3.a16d46a0.chunk.js": "/yash/static/js/3.a16d46a0.chunk.js",
+    "static/js/3.a16d46a0.chunk.js.map": "/yash/static/js/3.a16d46a0.chunk.js.map",
+    "index.html": "/yash/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/yash/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.58a384f1.chunk.js.LICENSE.txt": "/yash/static/js/2.58a384f1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/yash/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d294950.js",
+    "static/js/2.58a384f1.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.71ca98f1.chunk.js"
+  ]
+}
